@@ -62,7 +62,7 @@ My resume is available in the repository:
 **Majid Tamboli**
 
 * GitHub: https://github.com/majidtamboli45
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/majid-tamboli-9758ab295?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## ⭐ Support
 
